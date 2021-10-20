@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AustinPickering
-- 👀 I’m interested in mechtronics and automated controls
-- 🌱 I’m currently learning python, java, and C
+- 👀 I’m interested in mechatronics and automated controls
+- 🌱 I’m currently learning python
 - 📫 How to reach me: austin.pickering@okstate.edu
 
 <!---
